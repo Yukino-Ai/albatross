@@ -1,5 +1,12 @@
 # `links.md`
 
+## Nx
+
+[🎥 Nx Quickstart - How to Scale a JavaScript Project](https://www.youtube.com/watch?v=VUyBY72mwrQ)  
+[🍅 Fireship | YouTube channel](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+
+[📝 Nx docs](https://nx.dev/getting-started/intro)
+
 ## Chunking
 
 [🔗 Chunking (psychology) | Wikipedia](<https://en.wikipedia.org/wiki/Chunking_(psychology))
