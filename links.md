@@ -1,5 +1,12 @@
 # `links.md`
 
+## Web audio API
+
+[🎥 Introduction to the Web Audio API](https://www.youtube.com/watch?v=laCjGMhASp8)  
+[👤 uidotdev | YouTube channel](https://www.youtube.com/channel/UCbAn7pVK2VIyo-UysfWGdZQ)
+
+[👥 Web Audio API | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
+
 ## Language acquisition
 
 [🔗 Refold.la](https://refold.la)
