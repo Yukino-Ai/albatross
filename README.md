@@ -1,6 +1,6 @@
 # `README.md` for [albatross](https://github.com/Yukino-Ai/albatross)
 
-Something with colors and probably [traditional colors of Japan](https://en.wikipedia.org/wiki/Traditional_colors_of_Japan)
+Clustering tool to learn [phonemes](https://en.wikipedia.org/wiki/Phoneme)
 
 ## Tech stack
 
@@ -12,3 +12,7 @@ Something with colors and probably [traditional colors of Japan](https://en.wiki
 - [NestJS](https://nestjs.com/)
   - Similar feel/syntax to Angular
   - All-in-one solution
+- NodeJS
+  - Might be better to work "from scratch" though
+- Cypress.io
+  - Easy to get into testing framework
