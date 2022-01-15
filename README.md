@@ -1,6 +1,14 @@
 # `README.md` for [albatross](https://github.com/Yukino-Ai/albatross)
 
-Clustering tool to learn [phonemes](https://en.wikipedia.org/wiki/Phoneme)
+Visualization tool for cognitive chunking/clustering
+
+- Time-dependent key presses
+- Color and pattern-coded
+- Saved to backend as JSON
+- Patterns can be "overlayed"
+  - Line of color dots
+  - Line above that with more color dots
+  - Overall background is blend of total key presses for current line
 
 ## Tech stack
 
