@@ -1,5 +1,15 @@
 # `links.md`
 
+## Chunking
+
+[🔗 Chunking (psychology) | Wikipedia](<https://en.wikipedia.org/wiki/Chunking_(psychology))
+
+[🎥 The PROBLEM with Active Recall and Spaced Repitition (Truth Behind Studying Smarter)](https://www.youtube.com/watch?v=--Hu2w0s72Y)  
+[🍅 Justin Sung | YouTube channel](https://www.youtube.com/channel/UC2Zs9v2hL2qZZ7vsAENsg4w)
+
+[🎥 Encoding: 2 Basic Steps to Study More Efficiently](https://www.youtube.com/watch?v=VcT8puLpNKA)  
+[🍅 Justin Sung | YouTube channel](https://www.youtube.com/channel/UC2Zs9v2hL2qZZ7vsAENsg4w)
+
 ## Web audio API
 
 [🎥 Introduction to the Web Audio API](https://www.youtube.com/watch?v=laCjGMhASp8)  
