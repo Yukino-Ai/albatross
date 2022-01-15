@@ -2,6 +2,8 @@
 
 Visualization tool for cognitive chunking/clustering
 
+## Possible features
+
 - Time-dependent key presses
 - Color and pattern-coded
 - Saved to backend as JSON
