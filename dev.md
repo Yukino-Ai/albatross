@@ -2,9 +2,14 @@
 
 ## Organization
 
-Front-end: collect user input
+### Front-end
 
-Backend: store user input in flexible data format
+Store user input
+Generate visualization in real-time
+
+### Backend
+
+Save history of user input
 
 ---
 
