@@ -6,8 +6,16 @@ Front-end: collect user input
 
 Backend: store user input in flexible data format
 
+---
+
 ## Tasks
 
-Do `Nx` [tutorials](https://nx.dev/getting-started/intro#learn-while-doing)
+### Current
 
-Set up `Nx` project
+Minimal front-end to backend test
+
+- Implement code
+- Implement test
+  - Probably `turborepo` + `cypress.io`
+
+### Completed
