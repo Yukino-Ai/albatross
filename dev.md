@@ -17,14 +17,10 @@ Save history of user input
 
 ### Current
 
-Find a concrete data collection/analysis application. How can the tool we develop help?
+Install Angular 12 (on WSL)
+
+Fullpage color gradient visulization
 
 ### Other
-
-Minimal front-end to backend test
-
-- Implement code
-- Implement test
-  - Probably `turborepo` + `cypress.io`
 
 ### Completed
