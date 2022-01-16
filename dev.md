@@ -1,9 +1,11 @@
 # `dev.md`
 
+## Organization
+
+Front-end: collect user input
+
+Backend: store user input in flexible data format
+
 ## Tasks
 
-Color + pattern picker
-
-Assign color to key press
-
-On key press change background color
+TBA
