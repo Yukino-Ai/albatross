@@ -2,16 +2,6 @@
 
 Visualization tool for cognitive chunking/clustering
 
-## Possible features
-
-- Time-dependent key presses
-- Color and pattern-coded
-- Saved to backend as JSON
-- Patterns can be "overlayed"
-  - Line of color dots
-  - Line above that with more color dots
-  - Overall background is blend of total key presses for current line
-
 ## Tech stack
 
 - [Angular 12](https://javascript.plainenglish.io/angular-12-in-depth-7741e759c72)
