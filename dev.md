@@ -8,4 +8,6 @@ Backend: store user input in flexible data format
 
 ## Tasks
 
-TBA
+Do `Nx` [tutorials](https://nx.dev/getting-started/intro#learn-while-doing)
+
+Set up `Nx` project
