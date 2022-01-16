@@ -12,6 +12,10 @@ Backend: store user input in flexible data format
 
 ### Current
 
+Find a concrete data collection/analysis application. How can the tool we develop help?
+
+### Other
+
 Minimal front-end to backend test
 
 - Implement code
