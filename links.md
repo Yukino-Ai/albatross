@@ -1,5 +1,11 @@
 # `links.md`
 
+## Angular
+
+[🥞 How to Change (Upgrade or Downgrade) Angular version?](https://stackoverflow.com/a/50428445)  
+[👤 Matias Miraglio](https://stackoverflow.com/users/8372985/matias-miraglio)  
+[👤 Blu](https://stackoverflow.com/users/8753295/blu)
+
 ## Nx
 
 [🎥 Nx Quickstart - How to Scale a JavaScript Project](https://www.youtube.com/watch?v=VUyBY72mwrQ)  
