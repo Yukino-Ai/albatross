@@ -1,15 +1,18 @@
 # `links.md`
 
-## VS Code
-
-[🥞 Refresh Visual Studio Code list of files](https://stackoverflow.com/questions/36333117/refresh-visual-studio-code-list-of-files)  
-[👤 Wosi](https://stackoverflow.com/users/2023316/wosi)
-
 ## Angular
+
+[👥 How to use Angular CLI locally](https://medium.com/@starikovs/how-to-use-angular-cli-locally-729dbb6707dd)  
+[👤 Viacheslav Starikov](https://medium.com/@starikovs?source=post_page-----729dbb6707dd-----------------------------------)
 
 [🥞 How to Change (Upgrade or Downgrade) Angular version?](https://stackoverflow.com/a/50428445)  
 [👤 Matias Miraglio](https://stackoverflow.com/users/8372985/matias-miraglio)  
 [👤 Blu](https://stackoverflow.com/users/8753295/blu)
+
+## VS Code
+
+[🥞 Refresh Visual Studio Code list of files](https://stackoverflow.com/questions/36333117/refresh-visual-studio-code-list-of-files)  
+[👤 Wosi](https://stackoverflow.com/users/2023316/wosi)
 
 ## Nx
 
