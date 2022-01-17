@@ -21,10 +21,6 @@ Why?:
 
 `npx` could lead to a slow workflow in general
 
-Notes:
-
-Workflow is probably similar to `mamba`/`conda` virtual environments
-
 <details>
 <summary>Future tasks</summary>
 
