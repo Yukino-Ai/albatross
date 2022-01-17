@@ -1,5 +1,16 @@
 # `links.md`
 
+## NPM
+
+[🎥 What is npx? - Weekly npm package highlights](https://www.youtube.com/watch?v=Sf6JcMz_shU)  
+[👤 Jarrod Overson](https://www.youtube.com/channel/UCJbZGfomrHtwpdjrARoMVaA)
+
+[🎥 Tech Versus: NPM vs NPX - What is NPX?](https://www.youtube.com/watch?v=ZzT5J7ASdd4)  
+[👤 Mr. Random Generator](Tech Versus: NPM vs NPX - What is NPX?)
+
+[🎥 npm vs npx — What’s the Difference?](https://www.youtube.com/watch?v=fSHWc8RTJug)  
+[👤 Neutron Dev](https://www.youtube.com/channel/UCam2FHXijtbff4uW2VglGtA)
+
 ## Angular
 
 [👥 How to use Angular CLI locally](https://medium.com/@starikovs/how-to-use-angular-cli-locally-729dbb6707dd)  
