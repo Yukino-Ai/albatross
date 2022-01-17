@@ -15,12 +15,29 @@ Save history of user input
 
 ## Tasks
 
-### Current
+### Setup volta to use Angular 12
 
-Install Angular 12 (on WSL)
+Why?:
 
-Fullpage color gradient visulization
+`npx` could lead to a slow workflow in general
 
-### Other
+Notes:
 
-### Completed
+Workflow is probably similar to `mamba`/`conda` virtual environments
+
+<details>
+<summary>Future tasks</summary>
+
+### Fullpage color gradient visulization
+
+Why?:
+
+Simple
+
+Still interesting
+
+</details>
+
+<details>
+<summary>Completed tasks</summary>
+</details>
