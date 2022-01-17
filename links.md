@@ -1,5 +1,14 @@
 # `links.md`
 
+## vite
+
+[👥 The Vite Ecosystem](https://patak.dev/vite/ecosystem.html)  
+[🍅 patak.dev | blog](https://patak.dev/)
+
+[🔗 vitest](https://vitest.dev/)
+
+[🔗 Peeky](https://peeky.dev/)
+
 ## pnpm
 
 [🔗 pnpm](https://pnpm.io/)
