@@ -1,5 +1,9 @@
 # `notes.md`
 
+## Angular 12
+
+To build an Angular 12 project from scratch, it's helpful to use `node@14.15.5` and `@angular/cli@v12-lts`.
+
 ## volta versus pnpm
 
 What is the difficulty with adding `pnpm` to `volta`? For example, see this [issue](https://github.com/volta-cli/volta/issues/737).
