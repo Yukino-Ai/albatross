@@ -38,6 +38,8 @@
 
 ## Angular
 
+[🔗 Angular CLI, Angular, Node.js, TypeScript, and RxJS compatibility matrix](https://gist.github.com/LayZeeDK/c822cc812f75bb07b7c55d07ba2719b3)
+
 [👥 How to use Angular CLI locally](https://medium.com/@starikovs/how-to-use-angular-cli-locally-729dbb6707dd)  
 [👤 Viacheslav Starikov](https://medium.com/@starikovs?source=post_page-----729dbb6707dd-----------------------------------)
 
