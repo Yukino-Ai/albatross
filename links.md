@@ -1,8 +1,17 @@
 # `links.md`
 
-## Tooling in general
+## pnpm
+
+[🔗 pnpm](https://pnpm.io/)
+
+[🎥 What is pnpm?](https://www.youtube.com/watch?v=hiTmX2dW84E)  
+[🍅 LevelUpTuts | YouTube channel](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg)
+
+## volta
 
 [🔗 Volta](https://volta.sh/)
+
+### Tooling in general
 
 [🔗 Awesome Monorepo Tools](https://turborepo.org/docs/guides/complimentary-tools`)  
 [🍅 Turborepo docs](https://turborepo.org/)
