@@ -2,6 +2,10 @@
 
 ## volta versus pnpm
 
+What is the difficulty with adding `pnpm` to `volta`? For example, see this [issue](https://github.com/volta-cli/volta/issues/737).
+
+---
+
 volta -> shims that respect local `package.json` config
 
 pnpm -> global cache of downloaded packages to speedup execution
