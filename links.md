@@ -1,5 +1,10 @@
 # `links.md`
 
+## VS Code
+
+[🥞 Refresh Visual Studio Code list of files](https://stackoverflow.com/questions/36333117/refresh-visual-studio-code-list-of-files)  
+[👤 Wosi](https://stackoverflow.com/users/2023316/wosi)
+
 ## Angular
 
 [🥞 How to Change (Upgrade or Downgrade) Angular version?](https://stackoverflow.com/a/50428445)  
