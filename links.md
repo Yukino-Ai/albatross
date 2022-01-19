@@ -1,5 +1,9 @@
 # `links.md`
 
+## Testing
+
+[🔗 testing-angular](https://testing-angular.com/)
+
 ## Time
 
 [👥 Measuring execution time | MDN - `Data.prototype.getTime()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getTime#measuring_execution_time)
