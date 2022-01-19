@@ -2,12 +2,6 @@
 
 ## Tasks
 
-### Time tracking for user inputs
-
-Figure out how to track time of user inputs
-
-<summary>Next tasks</summary>
-
 ### Fullpage color gradient visulization
 
 Why?: Visually appealing while still functional
@@ -17,16 +11,25 @@ Why?: Visually appealing while still functional
 Single component with script:
 
 ```
-Track time;
 On keypress:
     Randomly change background color;
-    Save (`time`, `key`) to `signal`;
+    Save (`Date.now()`, `key`) to `signal`;
 ```
+
+<details>
+
+<summary>Next tasks</summary>
 
 </details>
 
 <details>
 <summary>Completed tasks</summary>
+
+### Time tracking for user inputs
+
+Figure out how to track time of user inputs
+
+Answer: Track only `Date.now()` times; probably only send back time differences to backend
 
 ### Setup volta to use Angular 12
 
@@ -43,6 +46,10 @@ Why?:
 ### Front-end
 
 Store user input
+
+- `Date.now()`
+- keypress type
+
 Generate visualization in real-time
 
 ### Backend

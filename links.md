@@ -2,6 +2,8 @@
 
 ## Time
 
+[👥 Measuring execution time | MDN - `Data.prototype.getTime()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getTime#measuring_execution_time)
+
 [👥 A small rant on time | Reddit](https://old.reddit.com/r/programming/comments/s6xd1e/a_small_rant_on_time/)
 
 [👥 UTC is enough for everyone right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right)  
