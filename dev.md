@@ -6,6 +6,8 @@
 
 Figure out how to track time of user inputs
 
+<details>
+
 <summary>Next tasks</summary>
 
 ### Fullpage color gradient visulization
