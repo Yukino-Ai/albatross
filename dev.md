@@ -8,7 +8,7 @@
 
 ---
 
-Why?: Visually appealing while still functional
+Justification: This is a good test feature that is arguably visually appealing while still being functional.
 
 ---
 
