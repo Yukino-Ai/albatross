@@ -4,6 +4,10 @@
 
 ### Fullpage color gradient visulization
 
+[🍅 albatross/issues/22](https://github.com/Yukino-Ai/albatross/issues/22)
+
+---
+
 Why?: Visually appealing while still functional
 
 ---
