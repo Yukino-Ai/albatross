@@ -2,13 +2,21 @@
 
 ## Tasks
 
+## Setup BDD process and tooling
+
+Justification: The BDD process (and possibly tooling) should determine the overall workflow of a project.
+
+<details>
+
+<summary>Next tasks</summary>
+
 ### Fullpage color gradient visulization
 
 [🍅 albatross/issues/22](https://github.com/Yukino-Ai/albatross/issues/22)
 
 ---
 
-Why?: Visually appealing while still functional
+Justification: This is a good test feature that is arguably visually appealing while still being functional.
 
 ---
 
@@ -19,10 +27,6 @@ On keypress:
     Randomly change background color;
     Save (`Date.now()`, `key`) to `signal`;
 ```
-
-<details>
-
-<summary>Next tasks</summary>
 
 </details>
 
