@@ -2,13 +2,33 @@
 
 ## Tasks
 
-## Setup BDD process and tooling
+### Create full-stack (with testing) task
 
-Justification: The BDD process (and possibly tooling) should determine the overall workflow of a project.
+Create a task that incoporates:
+
+- The front-end
+  - user input collection
+  - client-side rendering
+  - cypress testing
+- The backend
+  - user input storage
+  - server-side rendering
+  - vitest (or peek or jest) testing
+- A justification
+  - User experience
+  - Developer experience
+
+---
+
+Justification: Before designing a BDD/TDD workflow with particular tools, we need a concrete task in order to setup the boilerplate code for these tools.
 
 <details>
 
 <summary>Next tasks</summary>
+
+## Setup BDD process and tooling
+
+Justification: The BDD process (and possibly tooling) should determine the overall workflow of a project.
 
 ### Fullpage color gradient visulization
 
@@ -53,6 +73,10 @@ Why?:
 
 ### Front-end
 
+Framework: Angular
+
+---
+
 Store user input
 
 - `Date.now()`
@@ -62,4 +86,14 @@ Generate visualization in real-time
 
 ### Backend
 
-Save history of user input
+Framework: NestJS
+
+---
+
+~~Save history of user input~~
+
+### Testing
+
+Front-end: [Cypress](https://www.cypress.io)
+
+Backend: Maybe [Vitest](https://vitest.dev/)
