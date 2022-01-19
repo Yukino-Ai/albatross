@@ -1,5 +1,15 @@
 # `links.md`
 
+## Time
+
+[👥 A small rant on time | Reddit](https://old.reddit.com/r/programming/comments/s6xd1e/a_small_rant_on_time/)
+
+[👥 UTC is enough for everyone right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right)  
+[👤 Zach Holman](https://zachholman.com/about)
+
+[📝 A Debate Over the Physics of Time](https://www.quantamagazine.org/a-debate-over-the-physics-of-time-20160719/)  
+[👤 Dan Falk](https://www.quantamagazine.org/authors/dan-falk/)
+
 ## vite
 
 [👥 The Vite Ecosystem](https://patak.dev/vite/ecosystem.html)  

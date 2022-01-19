@@ -2,6 +2,18 @@
 
 ## Tasks
 
+### Look into embedding video and tracking video time
+
+Why?: Automatic start-time tracking
+
+Issues:
+
+- Ads in video may disrupt native JavaScript tracking
+- Method to get video time data may vary with video services (e.g. YouTube, Vimeo, Twitter, etc.)
+
+<details>
+<summary>Next tasks</summary>
+
 ### Fullpage color gradient visulization
 
 Why?: Visually appealing while still functional
@@ -16,9 +28,6 @@ On keypress:
     Randomly change background color;
     Save (`time`, `key`) to `signal`;
 ```
-
-<details>
-<summary>Next tasks</summary>
 
 </details>
 
