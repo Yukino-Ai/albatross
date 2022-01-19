@@ -2,16 +2,10 @@
 
 ## Tasks
 
-### Look into embedding video and tracking video time
+### Time tracking for user inputs
 
-Why?: Automatic start-time tracking
+Figure out how to track time of user inputs
 
-Issues:
-
-- Ads in video may disrupt native JavaScript tracking
-- Method to get video time data may vary with video services (e.g. YouTube, Vimeo, Twitter, etc.)
-
-<details>
 <summary>Next tasks</summary>
 
 ### Fullpage color gradient visulization
