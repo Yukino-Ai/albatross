@@ -1,3 +1,6 @@
 # `README.md` for [albatross](https://github.com/Yukino-Ai/albatross)
 
-Visualization tool for building mental models
+Something with modern statistics research
+
+Main source:  
+[🍅 Personal website | Emmanuel Candès](https://candes.su.domains/)
