@@ -2,6 +2,11 @@
 
 ## Tasks
 
+<details>
+<summary style="font-weight: bold">Archived tasks</summary>
+
+## Archived tasks
+
 ### Create full-stack (with testing) task
 
 Create a task that incoporates:
@@ -97,3 +102,5 @@ Framework: NestJS
 Front-end: [Cypress](https://www.cypress.io)
 
 Backend: Maybe [Vitest](https://vitest.dev/)
+
+</details>
