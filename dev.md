@@ -2,6 +2,8 @@
 
 ## Tasks
 
+Watch [this video](https://www.youtube.com/watch?v=HRCqkBt91xU) for ideas
+
 <details>
 <summary style="font-weight: bold">Archived tasks</summary>
 
