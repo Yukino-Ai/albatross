@@ -2,7 +2,9 @@
 
 ## Tasks
 
-Watch [this video](https://www.youtube.com/watch?v=HRCqkBt91xU) for ideas
+Look into the [Look-elsewhere effect (Wikipedia)](https://en.wikipedia.org/wiki/Look-elsewhere_effect).
+
+## Finished
 
 <details>
 <summary style="font-weight: bold">Archived tasks</summary>
